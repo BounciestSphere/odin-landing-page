@@ -170,3 +170,13 @@ ul {
     font-weight: 900;
     padding: 8px 32px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
+    font-size: 18px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}

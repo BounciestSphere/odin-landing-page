@@ -40,7 +40,8 @@ ul {
 }
 
 .links,
-.hero-subtext {
+.hero-subtext,
+.hero-image {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -78,7 +79,6 @@ ul {
     justify-content: center;
     align-items: center;
     background-color: grey;
-    color: #F9FAF8;
     width: 50%;
 }
 
@@ -121,4 +121,5 @@ ul {
     text-align-last: center;
     padding-top: 8px;
 }
+
 
